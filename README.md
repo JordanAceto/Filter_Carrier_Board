@@ -8,4 +8,4 @@
 
 ### Here is an example of one of the plug-in boards: [LINK](https://github.com/JordanAceto/optical_phasor_plug_in_board "optical phasor plug-in board")
 
-![PCB Front](./pics/PCB_front.png) ![PCB Rear](./pics/PCB_rear.png)
+![PCB Front](./pics/pcb_front.png) ![PCB Rear](./pics/pcb_rear.png)

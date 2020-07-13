@@ -1,6 +1,6 @@
-update=Wed 18 Mar 2020 11:10:00 AM EDT
+update=Mon 13 Jul 2020 02:26:15 PM EDT
 version=1
-last_client=eeschema
+last_client=kicad
 [general]
 version=1
 RootSch=
@@ -29,9 +29,14 @@ MinMicroViaDiameter=0.2
 MinMicroViaDrill=0.09999999999999999
 MinHoleToHole=0.25
 TrackWidth1=0.25
-TrackWidth2=0.4
+TrackWidth2=0.29
+TrackWidth3=0.4
+TrackWidth4=0.5
+TrackWidth5=1
 ViaDiameter1=0.8
 ViaDrill1=0.4
+ViaDiameter2=1
+ViaDrill2=0.8
 dPairWidth1=0.2
 dPairGap1=0.25
 dPairViaGap1=0.25

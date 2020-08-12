@@ -1,5 +1,9 @@
 # PCB carrier board for VCF plug-in boards.
 
+# The current pcb rev has a bad problem! The spacing for the plug-in board port is off by 0.1". 
+
+# !!! DO NOT ORDER THE CURRENT PCB LAYOUT !!!
+
 ### This PCB is designed to accomodate various filter boards documented elsewhere on my github page. Pots and jacks are mounted on this board, which can be affixed to a Eurorack panel. This way you can have one carrier board/panel, and swap in various VCF designs.
 
 ### A 12hp pcb panel is included in this repo as a cheap panel option.

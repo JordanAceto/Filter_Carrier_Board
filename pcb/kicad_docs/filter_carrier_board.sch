@@ -5,8 +5,8 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "Filter Carrier Board"
-Date "2020-07-13"
-Rev "1.1"
+Date "2020-08-18"
+Rev "1.2"
 Comp ""
 Comment1 "creativecommons.org/licenses/by/4.0/"
 Comment2 "License: CC by 4.0"

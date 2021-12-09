@@ -8,10 +8,10 @@
 
 ### Various plug-in boards have already been designed as part of a different project, and this seemed like an easy way to leverage an existing design in order to mess around with a Eurorack setup.
 
-### Here is a link to the repository of the plug-in boards: [LINK](https://github.com/JordanAceto/VCF_plug_in_boards "optical phasor plug-in board")
+### Here is a link to the repository of the plug-in boards: [LINK](https://github.com/JordanAceto/VCF_plug_in_boards "filter plug-in boards")
 
-![PCB Front](./pics/pcb_front.png) ![PCB Rear](./pics/pcb_rear.png)
+![PCB Front](./main_pcb/pics/pcb_front.png) ![PCB Rear](./main_pcb/pics/pcb_rear.png)
 
 Revision | schematic | pcb layout | built and tested | documentation
 ---------|-----------|------------|------------------|---------------
-1.2      | &#9745;   | &#9745;    | &#9745;          | &#9745; 
+1.2      | &#9745;   | &#9745;    | &#9745;          | &#9745;

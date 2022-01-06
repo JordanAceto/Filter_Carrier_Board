@@ -1,5 +1,9 @@
 # PCB carrier board for VCF plug-in boards.
 
+![](./pics/euro_misc_vcf_build.png)
+
+## [SCHEMATIC](https://github.com/JordanAceto/Filter_Carrier_Board/blob/master/main_pcb/construction_docs/filter_carrier_schematic.pdf)
+
 ### This PCB is designed to accomodate various filter boards documented elsewhere on my github page. Pots and jacks are mounted on this board, which can be affixed to a Eurorack panel. This way you can have one carrier board/panel, and swap in various VCF designs.
 
 ### A 12hp pcb panel is included in this repo as a cheap panel option.
@@ -10,8 +14,11 @@
 
 ### Here is a link to the repository of the plug-in boards: [LINK](https://github.com/JordanAceto/VCF_plug_in_boards "filter plug-in boards")
 
-![PCB Front](./main_pcb/pics/pcb_front.png) ![PCB Rear](./main_pcb/pics/pcb_rear.png)
+## Status of the project:
 
-Revision | schematic | pcb layout | built and tested | documentation
----------|-----------|------------|------------------|---------------
-1.2      | &#9745;   | &#9745;    | &#9745;          | &#9745;
+Task | Status |
+---------|--------------|
+Schematic capture | &#9745;
+PCB layout | &#9745;
+Test build | &#9745;
+Safe to order boards| &#9745;
